@@ -1,0 +1,106 @@
+@import url("https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,400;0,500;0,900;1,700&display=swap");
+* {
+  font-family: "Roboto", sans-serif;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+  background-color: #07080d;
+}
+
+header img {
+  width: 200px;
+}
+
+header a {
+  text-decoration: none;
+  font-size: 18px;
+  text-transform: uppercase;
+  color: #f1f1f1;
+  letter-spacing: 2px;
+}
+
+header a:hover {
+  color: #ffc632;
+  border-bottom: 2px solid #ffc632;
+}
+
+.main-btn {
+  font-size: 110px;
+  color: #f1f1f1;
+  font-style: italic;
+  margin-bottom: 20px;
+  font-weight: 900px;
+}
+
+.main-btn span {
+  color: #ffc632;
+}
+
+.main-png {
+  color: #f1f1f1;
+}
+
+.copy button {
+  margin-top: 20px;
+  border: #ffc632;
+  width: 250px;
+  height: 45px;
+  background-color: #ffc632;
+}
+
+.copy button:hover {
+  background-color: #f5f8f1;
+}
+
+.container h1 {
+  font-size: 50px;
+  color: #f1f1f1;
+  margin-bottom: 20px;
+}
+
+.container h1 span {
+  color: #ffc632;
+}
+
+.contact p {
+  color: #f1f1f1;
+}
+
+.container button {
+  margin-top: 20px;
+  border: #ffc632;
+  width: 250px;
+  height: 45px;
+  background-color: #ffc632;
+}
+
+.contact button:hover {
+  background-color: #f5f8f1;
+}
+
+.img-fluid {
+  width: 500px;
+  height: 500px;
+}
+
+.dark img {
+  width: 600px;
+  height: 500px;
+}
+
+.dark1 p {
+  color: #f1f1f1;
+}
+
+.whit{
+    margin-top: 100px;
+    gap: 150px;
+    display: flex;
+    background-color: ;
+}
+
+.dark1{
+    margin-top: 100px;
+}
